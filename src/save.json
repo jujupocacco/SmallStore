@@ -1,13 +1,7 @@
 {
     "arrays": {},
-    "hashmaps": {
-        "key1": {
-            "passwords": "1.23456"
-        }
-    },
-    "key_types": {
-        "key1": "hashmap"
-    },
+    "hashmaps": {},
+    "key_types": {},
     "sets": {},
     "strings": {}
 }
